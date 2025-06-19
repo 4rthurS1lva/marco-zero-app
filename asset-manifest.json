@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/marco-zero-app/static/css/main.32584ee7.css",
+    "main.js": "/marco-zero-app/static/js/main.48970b39.js",
+    "static/js/453.2bab82e4.chunk.js": "/marco-zero-app/static/js/453.2bab82e4.chunk.js",
+    "index.html": "/marco-zero-app/index.html",
+    "main.32584ee7.css.map": "/marco-zero-app/static/css/main.32584ee7.css.map",
+    "main.48970b39.js.map": "/marco-zero-app/static/js/main.48970b39.js.map",
+    "453.2bab82e4.chunk.js.map": "/marco-zero-app/static/js/453.2bab82e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32584ee7.css",
+    "static/js/main.48970b39.js"
+  ]
+}
