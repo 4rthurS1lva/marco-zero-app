@@ -2,7 +2,7 @@
   "name": "marco-zero-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://4rthurS1lva.github.io/marco-zero-app", // <-- SEU USUÁRIO e NOME DO REPOSITÓRIO aqui!
+  "homepage": "https://4rthurS1lva.github.io/marco-zero-app",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
